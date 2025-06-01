@@ -1,0 +1,13 @@
+body{
+  background-color: black;
+  color: #FFFF;
+  font-family: "oswald";
+  text-align: center;
+}
+main{
+  flex: 1;
+}
+h2{
+  font-family: "heebo";
+}
+

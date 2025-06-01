@@ -62,7 +62,7 @@ Projet open-source sous licence MIT. Utilise-le, modifie-le, partage-le, crédit
 ## 🙋‍♀️ Contact
 Créé par Maryline Biloa
 📧 philippemarylineb@gmail.com
-🌐 ton-site.com
+🌐 github.com/marylineb/mon-portfolio.com
 🔗 LinkedIn: maryline biloa
 
 
